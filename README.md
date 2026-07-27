@@ -7,7 +7,7 @@
 ## 🔗 الروابط المباشرة (Live)
 
 | | الرابط |
-
+|---|---|
 | 🚀 الموقع (Frontend) | https://esms-frontend-snowy.vercel.app |
 | 📦 Backend Repo (GitHub) | https://github.com/samamokhtar8m-max/Electronics-Store-Management-System-ESMS-.git |
 | 📦 Frontend Repo (GitHub) | https://github.com/samamokhtar8m-max/esms_Full-Front-Back-.git |
